@@ -14,5 +14,5 @@
 
 <h3>📚 My Projects</h3>
 <ul>
-    <li><strong><a href="https://github.com/yourusername/parabank-tests">ParaBank Test Automation</strong> – Automated tests for a banking application</li>
+    <li><strong><a href="https://github.com/Prime2390/ParaBankAutomationTest">ParaBank Test Automation</strong> – Automated tests for a banking application</li>
 </ul>
