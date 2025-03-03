@@ -14,9 +14,5 @@
 
 <h3>📚 My Projects</h3>
 <ul>
-    <li><strong>ParaBank Test Automation</strong> – Automated tests for a banking application</li>
-    <li><strong>Medical Clinic Management System</strong> – Database project for a healthcare system</li>
-    <li><strong>Bug Tracking System</strong> – A simple bug tracking application</li>
-    <li><strong>API Testing Framework</strong> – Automated API testing using REST Assured</li>
-    <li><strong>Various UI and API Test Cases</strong> – Test documentation and scripts</li>
-</ul
+    <li><strong><a href="https://github.com/yourusername/parabank-tests">ParaBank Test Automation</strong> – Automated tests for a banking application</li>
+</ul>
