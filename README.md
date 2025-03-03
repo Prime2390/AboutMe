@@ -8,7 +8,6 @@
     <li>✅ SQL for Database Testing</li>
     <li>✅ API Testing (Postman, REST Assured)</li>
     <li>✅ Test Case Design and Execution</li>
-    <li>✅ Working with Agile (Scrum, Kanban)</li>
     <li>✅ CI/CD Testing (Jenkins, GitHub Actions)</li>
     <li>✅ Exploratory and Performance Testing</li>
 </ul>
