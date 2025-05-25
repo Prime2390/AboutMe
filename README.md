@@ -8,11 +8,10 @@
     <li>✅ SQL for Database Testing</li>
     <li>✅ API Testing (Postman, REST Assured)</li>
     <li>✅ Test Case Design and Execution</li>
-    <li>✅ CI/CD Testing (Jenkins, GitHub Actions)</li>
     <li>✅ Exploratory and Performance Testing</li>
 </ul>
 
 <h3>📚 My Projects</h3>
 <ul>
-    <li><strong><a href="https://github.com/Prime2390/ParaBankAutomationTest">ParaBank Test Automation</strong> – Automated tests for a banking application</li>
+    
 </ul>
