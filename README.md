@@ -13,5 +13,6 @@
 
 <h3>📚 My Projects</h3>
 <ul>
-    
+<li><p>Publigo</p><p>https://github.com/Prime2390/Publigo</p></li>
+<li><p>Parabank</p><p>https://github.com/Prime2390/ParaBank-TestingSuite</p></li>
 </ul>
